@@ -773,6 +773,6 @@ func (rc ResultCode) String() string {
 	case AEROSPIKE_ERR_LUA_FILE_NOT_FOUND:
 		return "AEROSPIKE_ERR_LUA_FILE_NOT_FOUND"
 	default:
-		return "invalid ResultCode. Please report on https://github.com/aerospike/aerospike-client.go"
+		return "invalid ResultCode. Please report on https://github.com/SponsorPay/aerospike-client.go"
 	}
 }

@@ -18,7 +18,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/aerospike/aerospike-client-go/v6/internal/atomic"
+	"github.com/SponsorPay/aerospike-client-go/v6/internal/atomic"
 
 	gg "github.com/onsi/ginkgo"
 	gm "github.com/onsi/gomega"
