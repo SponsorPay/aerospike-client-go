@@ -14,7 +14,7 @@
 
 package aerospike
 
-import xornd "github.com/aerospike/aerospike-client-go/v6/types/rand"
+import xornd "github.com/SponsorPay/aerospike-client-go/v6/types/rand"
 
 // Statement encapsulates query statement parameters.
 type Statement struct {

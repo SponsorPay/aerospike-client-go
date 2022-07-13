@@ -15,8 +15,8 @@
 package aerospike_test
 
 import (
-	as "github.com/aerospike/aerospike-client-go/v6"
-	ast "github.com/aerospike/aerospike-client-go/v6/types"
+	as "github.com/SponsorPay/aerospike-client-go/v6"
+	ast "github.com/SponsorPay/aerospike-client-go/v6/types"
 
 	gg "github.com/onsi/ginkgo"
 	gm "github.com/onsi/gomega"

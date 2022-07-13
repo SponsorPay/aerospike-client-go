@@ -17,10 +17,10 @@ package aerospike
 import (
 	"time"
 
-	"github.com/aerospike/aerospike-client-go/v6/logger"
-	"github.com/aerospike/aerospike-client-go/v6/types"
+	"github.com/SponsorPay/aerospike-client-go/v6/logger"
+	"github.com/SponsorPay/aerospike-client-go/v6/types"
 
-	Buffer "github.com/aerospike/aerospike-client-go/v6/utils/buffer"
+	Buffer "github.com/SponsorPay/aerospike-client-go/v6/utils/buffer"
 )
 
 type sessionInfo struct {

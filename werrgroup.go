@@ -20,7 +20,7 @@ import (
 
 	"golang.org/x/sync/semaphore"
 
-	"github.com/aerospike/aerospike-client-go/v6/logger"
+	"github.com/SponsorPay/aerospike-client-go/v6/logger"
 )
 
 type werrGroup struct {
