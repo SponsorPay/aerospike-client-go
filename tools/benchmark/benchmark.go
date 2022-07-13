@@ -32,9 +32,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	as "github.com/aerospike/aerospike-client-go/v6"
-	asl "github.com/aerospike/aerospike-client-go/v6/logger"
-	ast "github.com/aerospike/aerospike-client-go/v6/types"
+	as "github.com/SponsorPay/aerospike-client-go/v6"
+	asl "github.com/SponsorPay/aerospike-client-go/v6/logger"
+	ast "github.com/SponsorPay/aerospike-client-go/v6/types"
 )
 
 // TStats is a thread's statistics values

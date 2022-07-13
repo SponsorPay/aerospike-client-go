@@ -1,4 +1,4 @@
-module github.com/aerospike/aerospike-client-go/v6
+module github.com/SponsorPay/aerospike-client-go/v6
 
 go 1.13
 
