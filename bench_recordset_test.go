@@ -21,7 +21,7 @@ import (
 	// "time"
 	_ "net/http/pprof"
 
-	as "github.com/aerospike/aerospike-client-go/v6"
+	as "github.com/SponsorPay/aerospike-client-go/v6"
 	// _ "github.com/influxdata/influxdb/client"
 )
 

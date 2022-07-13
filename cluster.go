@@ -24,9 +24,9 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	iatomic "github.com/aerospike/aerospike-client-go/v6/internal/atomic"
-	"github.com/aerospike/aerospike-client-go/v6/logger"
-	"github.com/aerospike/aerospike-client-go/v6/types"
+	iatomic "github.com/SponsorPay/aerospike-client-go/v6/internal/atomic"
+	"github.com/SponsorPay/aerospike-client-go/v6/logger"
+	"github.com/SponsorPay/aerospike-client-go/v6/types"
 )
 
 // Cluster encapsulates the aerospike cluster nodes and manages

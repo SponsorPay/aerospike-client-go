@@ -20,8 +20,8 @@ package aerospike_test
 import (
 	"os"
 
-	as "github.com/aerospike/aerospike-client-go/v6"
-	"github.com/aerospike/aerospike-client-go/v6/internal/atomic"
+	as "github.com/SponsorPay/aerospike-client-go/v6"
+	"github.com/SponsorPay/aerospike-client-go/v6/internal/atomic"
 
 	gg "github.com/onsi/ginkgo"
 	gm "github.com/onsi/gomega"

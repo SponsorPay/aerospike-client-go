@@ -21,8 +21,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/aerospike/aerospike-client-go/v6/logger"
-	"github.com/aerospike/aerospike-client-go/v6/types"
+	"github.com/SponsorPay/aerospike-client-go/v6/logger"
+	"github.com/SponsorPay/aerospike-client-go/v6/types"
 )
 
 type nodesToAddT map[string]*Node

@@ -21,8 +21,8 @@ import (
 	gg "github.com/onsi/ginkgo"
 	gm "github.com/onsi/gomega"
 
-	as "github.com/aerospike/aerospike-client-go/v6"
-	ast "github.com/aerospike/aerospike-client-go/v6/types"
+	as "github.com/SponsorPay/aerospike-client-go/v6"
+	ast "github.com/SponsorPay/aerospike-client-go/v6/types"
 )
 
 var _ = gg.Describe("HyperLogLog Test", func() {
